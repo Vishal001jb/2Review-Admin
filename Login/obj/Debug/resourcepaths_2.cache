@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>
+    <AdditionalAndroidResourcePath>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.Compat\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.CustomTabs\24.2.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.Design\23.2.1.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.v4\23.2.1.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.v7.AppCompat\23.2.1.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.v7.RecyclerView\23.2.1.0\embedded</AdditionalAndroidResourcePath>
+  </AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>
+    <AdditionalJavaLibraryReference>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.Compat\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.Compat\24.2.1\embedded\libs\internal_impl-24.2.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.CustomTabs\24.2.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.Design\23.2.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.v4\23.2.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.v4\23.2.1.0\embedded\libs\internal_impl-23.2.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.v7.AppCompat\23.2.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\ADMIN\AppData\Local\Xamarin\Xamarin.Android.Support.v7.RecyclerView\23.2.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+  </AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences />
+</Paths>

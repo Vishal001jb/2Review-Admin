@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments>
+    <ManifestDocument>obj\Debug\lp\8\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Debug\lp\8\jl\aapt\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Debug\lp\8\jl\manifest\AndroidManifest.xml</ManifestDocument>
+  </ManifestDocuments>
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj\Debug\lp\8\jl\bin\classes.jar</Jar>
+  </Jars>
+</Paths>

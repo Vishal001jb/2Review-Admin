@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+	android:id="@+id/header"
+	
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+  <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="46"
+		android:paddingBottom="10dp"
+		android:paddingTop="10dp">
+
+
+
+
+    <TextView
+			android:paddingLeft="5dp"
+			android:textColor="#00CED1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:id="@+id/txtname"
+            android:layout_weight="6"
+			android:textSize="15sp"/>
+
+    <TextView
+			android:textColor="#00CED1"
+			android:textSize="15sp"
+			 android:text="Designation"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtdesig"
+            android:layout_weight="20" />
+
+    <TextView
+			android:textColor="#00CED1"
+			android:textSize="15sp"
+			 android:text="Total"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txttotal"
+            android:layout_weight="10" />
+
+    <TextView
+			android:textColor="#00CED1"
+			android:textSize="15sp"
+	        android:text="Pending"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtpending"
+            android:layout_weight="10" />
+
+  </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Login.Login" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <application android:allowBackup="true" android:label="@string/app_name" android:hardwareAccelerated="false" android:name="android.app.Application" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="2Review" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md533583cc845b761e36e0b683119bc5692.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:configChanges="orientation|screenSize" android:label="2Review" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md5f63b194e64da77c4699b56c91b00ae39.AddemployeeFragment" />
+    <activity android:configChanges="orientation|screenSize" android:label="2Review" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md5dadab86d543333d749372a60ac649408.Activity1" />
+    <activity android:configChanges="orientation|screenSize" android:label="AddEmployee" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light" android:name="md5dadab86d543333d749372a60ac649408.AddEmployee" />
+    <activity android:configChanges="orientation|screenSize" android:label="EmployeeDetail" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light" android:name="md5dadab86d543333d749372a60ac649408.EmployeeDetail" />
+    <activity android:configChanges="orientation|screenSize" android:label="2Review" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md5dadab86d543333d749372a60ac649408.Home" />
+    <activity android:label="ManipulateQuestion" android:theme="@style/Theme.AppCompat.Light" android:name="md5dadab86d543333d749372a60ac649408.ManipulateQuestion" />
+    <activity android:configChanges="orientation|screenSize" android:label="2Review" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md5dadab86d543333d749372a60ac649408.Navigation" />
+    <activity android:configChanges="orientation|screenSize" android:label="2Review" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md5dadab86d543333d749372a60ac649408.newuser" />
+    <activity android:configChanges="orientation|screenSize" android:label="RoundProcess" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light" android:name="md5dadab86d543333d749372a60ac649408.RoundProcess" />
+    <activity android:label="UpdateQuestion" android:name="md5dadab86d543333d749372a60ac649408.UpdateQuestion" />
+    <activity android:configChanges="orientation|screenSize" android:label="2Review" android:screenOrientation="portrait" android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="md5dadab86d543333d749372a60ac649408.userinput" />
+    <activity android:label="Web Authenticator" android:name="md5ff7ab77db4f245bffa5244a84a5a1bca.FormAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="md5ff7ab77db4f245bffa5244a84a5a1bca.WebAuthenticatorActivity" />
+    <activity android:label="Web Authenticator Native Broswer" android:launchMode="singleTop" android:name="md5ff7ab77db4f245bffa5244a84a5a1bca.WebAuthenticatorNativeBrowserActivity" />
+    <activity android:name="com.microsoft.windowsazure.mobileservices.authentication.RedirectUrlActivity" />
+    <service android:name="md59f70a99687498e7ba187118950981d26.KeepAliveService" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Login.Login.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Login.Login" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

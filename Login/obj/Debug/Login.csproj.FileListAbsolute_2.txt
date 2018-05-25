@@ -1,0 +1,71 @@
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\bin\Debug\Login.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\bin\Debug\Login.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\bin\Debug\Login.Login.apk
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\bin\Debug\Login.Login-Signed.apk
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\Login.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\Login.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\android\bin\Login.Login.apk
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\home.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\sepalsscreen.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\navigation.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\addemployee.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\newuser.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\userinput.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\addemployeefragment.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\newuserfragment.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\userinputfragment.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\activity1.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\values\strings.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\values\styles.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\values\colors.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\adddesignation.png
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\adduser.png
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\back.jpg
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\backimage.jpg
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\btn.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\final_image.jpg
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\line.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\main.jpg
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\mainscreen.jpg
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\managequestion.png
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\plus1.png
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\addemployee.png
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\scheduleround.png
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\splashscreen.jpg
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\toolbar.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\menu\menu.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\layout\header.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\home.png
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\res\drawable\icon1.png
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\R.cs.flag
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\uploadflags.txt
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\bin\Debug\Login.dll.mdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\obj\Debug\android\assets\Login.dll.mdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\Login\Login\bin\Debug\Login.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Login.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

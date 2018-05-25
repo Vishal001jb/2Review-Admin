@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Login</string>
+  <string name="open">open</string>
+  <string name="closed">closed</string>
+  <string name="mydrawer">My Drawer</string>
+  <string name="addcategory">Add Category</string>
+  <string-array name="category">
+    <item>Devloper</item>
+    <item>Deisgner</item>
+    <item>Tester</item>
+    <item>HR</item>
+    <item>Technical Support</item>
+    <item>Project Manager</item>
+    <item>Analyst</item>
+    <item>Network Engineer</item>
+  </string-array>
+</resources>

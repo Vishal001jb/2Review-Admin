@@ -1,0 +1,137 @@
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Login.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Login.pdb
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Login.Login.apk
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Login.Login-Signed.apk
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Microsoft.Azure.Mobile.Client.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Microsoft.Azure.Mobile.Client.SQLiteStore.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Newtonsoft.Json.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\PCLCrypto.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\PInvoke.BCrypt.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\PInvoke.Kernel32.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\PInvoke.NCrypt.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\PInvoke.Windows.Core.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Refractored.Controls.CircleImageView.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Validation.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Microsoft.Azure.Mobile.Client.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Microsoft.Azure.Mobile.Client.SQLiteStore.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Newtonsoft.Json.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\PCLCrypto.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\PInvoke.BCrypt.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\PInvoke.Kernel32.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\PInvoke.NCrypt.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\PInvoke.Windows.Core.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Refractored.Controls.CircleImageView.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Validation.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\2Review.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\Login.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\Login.pdb
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\android\bin\Login.Login.apk
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\home.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\sepalsscreen.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\navigation.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\newuser.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\userinput.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\addemployeefragment.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\newuserfragment.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\userinputfragment.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\addquestion.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\listquestion.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\question_row_item.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\adddesig.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\logout.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\listdesignation.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\designation_row_item.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\adddesignation.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\updatequestion.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\addround.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\listround.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\round_row_item.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\listemployee.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\employee_row_item.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\addemployee.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\ratinglist.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\employeedetail.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\activity1.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\values\strings.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\values\styles.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\values\colors.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\adddesignation.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\adduser.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\back.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\backimage.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\btn.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\final_image.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\line.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\main.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\mainscreen.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\managequestion.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\plus1.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\addemployee.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\scheduleround.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\splashscreen.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\toolbar.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\menu\menu.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\header.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\home.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\icon1.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\menu\top_menu.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\add.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\tool_bar.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\icon.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\logout.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\my_progress_background.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\empsidestickyheader.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\layout\footer.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\res\drawable\custom_seekbar_progress.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\R.cs.flag
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\uploadflags.txt
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Login.dll.mdb
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Release\android\assets\Login.dll.mdb
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Release\Login.dll
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.pdb
+bin\Release\System.IO.Compression.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\Microsoft.CSharp.pdb
+bin\Release\System.Numerics.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\Login.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.IO.Compression.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\Microsoft.CSharp.pdb
+obj\Release\linksrc\System.Numerics.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb

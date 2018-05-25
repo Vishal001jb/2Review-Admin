@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/final_Image">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:alpha="1">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textSize="60dp"
+                android:id="@+id/textView1" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="REVIEW"
+                android:textColor="#fff"
+                android:textSize="60dp"
+                android:id="@+id/textView2" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="EXPRESS YOURSELF"
+                android:textColor="#fff"
+                android:textSize="20dp"
+                android:id="@+id/textView2" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+            <Button
+                android:text="Add Employee"
+                android:textColor="#2E86C1"
+                android:textSize="20dp"
+                android:id="@+id/addemployee"
+                android:layout_width="350dp"
+                android:layout_height="90dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+            <Button
+                android:text="Add Designation"
+                android:textColor="#2E86C1"
+                android:textSize="20dp"
+                android:id="@+id/adddesignation"
+                android:layout_width="350dp"
+                android:layout_height="90dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+            <Button
+                android:text="Manage Question"
+                android:textColor="#2E86C1"
+                android:textSize="20dp"
+                android:id="@+id/managequestion"
+                android:layout_width="350dp"
+                android:layout_height="90dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+            <Button
+                android:text="Schedule Round"
+                android:textColor="#2E86C1"
+                android:textSize="20dp"
+                android:id="@+id/scheduleround"
+                android:layout_width="350dp"
+                android:layout_height="90dp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

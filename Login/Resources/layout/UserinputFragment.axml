@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+  <LinearLayout
+      android:layout_marginTop="50dp"
+      android:layout_margin="20dp"
+      android:layout_gravity="center"
+      android:orientation="vertical"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="@android:color/transparent">
+    <TextView
+        android:layout_gravity="center"
+        android:padding="40dp"
+        android:text="Upload File"
+        android:textColor="#2E86C1"
+        android:textSize="30dp"
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+      <TextView
+          android:padding="16dp"
+          android:textSize="15dp"
+          android:layout_width="230dp"
+          android:layout_height="wrap_content"
+          android:hint="Enter File"
+          android:textColorHint="#000000"
+          android:textColor="@android:color/black"
+          android:id="@+id/textView2" />
+      <ImageButton
+          android:onClick="upload"
+          android:id="@+id/addfile"
+          android:layout_width="45dp"
+          android:layout_height="45dp"
+          android:background="@drawable/icon1" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/linearLayout2">
+      <Button
+          android:textColor="#ffffff"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Add"
+          android:textSize="20dp"
+          android:id="@+id/add" />
+    </LinearLayout>
+  </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,293 @@
+E:\Login\Login\bin\Debug\Login.dll
+E:\Login\Login\bin\Debug\Login.pdb
+E:\Login\Login\bin\Debug\Login.Login.apk
+E:\Login\Login\bin\Debug\Login.Login-Signed.apk
+E:\Login\Login\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Login\Login\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Login\Login\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Login\Login\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Login\Login\obj\Debug\2Review.csprojResolveAssemblyReference.cache
+E:\Login\Login\obj\Debug\2Review.csproj.CoreCompileInputs.cache
+E:\Login\Login\obj\Debug\Login.dll
+E:\Login\Login\obj\Debug\Login.pdb
+E:\Login\Login\obj\Debug\android\bin\Login.Login.apk
+E:\Login\Login\obj\Debug\res\layout\home.xml
+E:\Login\Login\obj\Debug\res\layout\sepalsscreen.xml
+E:\Login\Login\obj\Debug\res\layout\navigation.xml
+E:\Login\Login\obj\Debug\res\layout\addemployee.xml
+E:\Login\Login\obj\Debug\res\layout\newuser.xml
+E:\Login\Login\obj\Debug\res\layout\userinput.xml
+E:\Login\Login\obj\Debug\res\layout\addemployeefragment.xml
+E:\Login\Login\obj\Debug\res\layout\newuserfragment.xml
+E:\Login\Login\obj\Debug\res\layout\userinputfragment.xml
+E:\Login\Login\obj\Debug\res\layout\activity1.xml
+E:\Login\Login\obj\Debug\res\values\strings.xml
+E:\Login\Login\obj\Debug\res\values\styles.xml
+E:\Login\Login\obj\Debug\res\values\colors.xml
+E:\Login\Login\obj\Debug\res\drawable\adddesignation.png
+E:\Login\Login\obj\Debug\res\drawable\adduser.png
+E:\Login\Login\obj\Debug\res\drawable\back.jpg
+E:\Login\Login\obj\Debug\res\drawable\backimage.jpg
+E:\Login\Login\obj\Debug\res\drawable\btn.xml
+E:\Login\Login\obj\Debug\res\drawable\final_image.jpg
+E:\Login\Login\obj\Debug\res\drawable\line.xml
+E:\Login\Login\obj\Debug\res\drawable\main.jpg
+E:\Login\Login\obj\Debug\res\drawable\mainscreen.jpg
+E:\Login\Login\obj\Debug\res\drawable\managequestion.png
+E:\Login\Login\obj\Debug\res\drawable\plus1.png
+E:\Login\Login\obj\Debug\res\drawable\addemployee.png
+E:\Login\Login\obj\Debug\res\drawable\scheduleround.png
+E:\Login\Login\obj\Debug\res\drawable\splashscreen.jpg
+E:\Login\Login\obj\Debug\res\layout\toolbar.xml
+E:\Login\Login\obj\Debug\res\menu\menu.xml
+E:\Login\Login\obj\Debug\res\layout\header.xml
+E:\Login\Login\obj\Debug\res\drawable\home.png
+E:\Login\Login\obj\Debug\res\drawable\icon1.png
+E:\Login\Login\obj\Debug\R.cs.flag
+E:\Login\Login\obj\Debug\uploadflags.txt
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Login.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Login.pdb
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Login.Login.apk
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Login.Login-Signed.apk
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Microsoft.Azure.Mobile.Client.SQLiteStore.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\PCLCrypto.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Validation.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Microsoft.Azure.Mobile.Client.SQLiteStore.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\PCLCrypto.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Validation.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\2Review.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\Login.dll
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\Login.pdb
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\android\bin\Login.Login.apk
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\home.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\sepalsscreen.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\navigation.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\newuser.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\userinput.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\addemployeefragment.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\newuserfragment.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\userinputfragment.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\addquestion.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\listquestion.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\question_row_item.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\adddesig.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\logout.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\listdesignation.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\designation_row_item.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\adddesignation.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\updatequestion.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\addround.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\listround.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\round_row_item.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\listemployee.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\employee_row_item.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\addemployee.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\ratinglist.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\employeedetail.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\manipulatequestion.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\activity1.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\values\strings.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\values\styles.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\values\colors.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\adddesignation.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\adduser.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\back.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\backimage.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\btn.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\final_image.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\line.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\main.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\mainscreen.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\managequestion.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\plus1.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\addemployee.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\scheduleround.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\splashscreen.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\toolbar.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\menu\menu.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\header.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\home.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\icon1.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\menu\top_menu.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\add.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\tool_bar.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\icon.jpg
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\logout.png
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\my_progress_background.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\empsidestickyheader.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\layout\footer.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\res\drawable\custom_seekbar_progress.xml
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\R.cs.flag
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\uploadflags.txt
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Login.dll.mdb
+C:\Users\ADMIN\documents\visual studio 2017\Projects\Login\Login\obj\Debug\android\assets\Login.dll.mdb
+F:\Vishal\Login\Login\obj\Debug\2Review.csproj.CoreCompileInputs.cache
+F:\Vishal\Login\Login\bin\Debug\Login.dll
+F:\Vishal\Login\Login\bin\Debug\Login.pdb
+F:\Vishal\Login\Login\bin\Debug\Login.Login.apk
+F:\Vishal\Login\Login\bin\Debug\Login.Login-Signed.apk
+F:\Vishal\Login\Login\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+F:\Vishal\Login\Login\bin\Debug\Microsoft.Azure.Mobile.Client.SQLiteStore.dll
+F:\Vishal\Login\Login\bin\Debug\Newtonsoft.Json.dll
+F:\Vishal\Login\Login\bin\Debug\PCLCrypto.dll
+F:\Vishal\Login\Login\bin\Debug\PInvoke.BCrypt.dll
+F:\Vishal\Login\Login\bin\Debug\PInvoke.Kernel32.dll
+F:\Vishal\Login\Login\bin\Debug\PInvoke.NCrypt.dll
+F:\Vishal\Login\Login\bin\Debug\PInvoke.Windows.Core.dll
+F:\Vishal\Login\Login\bin\Debug\Refractored.Controls.CircleImageView.dll
+F:\Vishal\Login\Login\bin\Debug\SQLitePCLRaw.batteries_green.dll
+F:\Vishal\Login\Login\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Vishal\Login\Login\bin\Debug\SQLitePCLRaw.core.dll
+F:\Vishal\Login\Login\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+F:\Vishal\Login\Login\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Vishal\Login\Login\bin\Debug\Validation.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.Compat.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.Design.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.Fragment.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\Vishal\Login\Login\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+F:\Vishal\Login\Login\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+F:\Vishal\Login\Login\bin\Debug\Microsoft.Azure.Mobile.Client.SQLiteStore.xml
+F:\Vishal\Login\Login\bin\Debug\Newtonsoft.Json.xml
+F:\Vishal\Login\Login\bin\Debug\PCLCrypto.xml
+F:\Vishal\Login\Login\bin\Debug\PInvoke.BCrypt.xml
+F:\Vishal\Login\Login\bin\Debug\PInvoke.Kernel32.xml
+F:\Vishal\Login\Login\bin\Debug\PInvoke.NCrypt.xml
+F:\Vishal\Login\Login\bin\Debug\PInvoke.Windows.Core.xml
+F:\Vishal\Login\Login\bin\Debug\Refractored.Controls.CircleImageView.xml
+F:\Vishal\Login\Login\bin\Debug\Validation.xml
+F:\Vishal\Login\Login\obj\Debug\Login.dll
+F:\Vishal\Login\Login\obj\Debug\Login.pdb
+F:\Vishal\Login\Login\obj\Debug\android\bin\Login.Login.apk
+F:\Vishal\Login\Login\obj\Debug\res\layout\home.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\sepalsscreen.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\navigation.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\newuser.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\userinput.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\addemployeefragment.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\newuserfragment.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\userinputfragment.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\addquestion.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\listquestion.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\question_row_item.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\adddesig.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\logout.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\listdesignation.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\designation_row_item.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\adddesignation.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\updatequestion.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\addround.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\listround.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\round_row_item.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\listemployee.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\employee_row_item.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\addemployee.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\ratinglist.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\employeedetail.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\manipulatequestion.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\activity1.xml
+F:\Vishal\Login\Login\obj\Debug\res\values\strings.xml
+F:\Vishal\Login\Login\obj\Debug\res\values\styles.xml
+F:\Vishal\Login\Login\obj\Debug\res\values\colors.xml
+F:\Vishal\Login\Login\obj\Debug\res\drawable\adddesignation.png
+F:\Vishal\Login\Login\obj\Debug\res\drawable\adduser.png
+F:\Vishal\Login\Login\obj\Debug\res\drawable\back.jpg
+F:\Vishal\Login\Login\obj\Debug\res\drawable\backimage.jpg
+F:\Vishal\Login\Login\obj\Debug\res\drawable\btn.xml
+F:\Vishal\Login\Login\obj\Debug\res\drawable\final_image.jpg
+F:\Vishal\Login\Login\obj\Debug\res\drawable\line.xml
+F:\Vishal\Login\Login\obj\Debug\res\drawable\main.jpg
+F:\Vishal\Login\Login\obj\Debug\res\drawable\mainscreen.jpg
+F:\Vishal\Login\Login\obj\Debug\res\drawable\managequestion.png
+F:\Vishal\Login\Login\obj\Debug\res\drawable\plus1.png
+F:\Vishal\Login\Login\obj\Debug\res\drawable\addemployee.png
+F:\Vishal\Login\Login\obj\Debug\res\drawable\scheduleround.png
+F:\Vishal\Login\Login\obj\Debug\res\drawable\splashscreen.jpg
+F:\Vishal\Login\Login\obj\Debug\res\layout\toolbar.xml
+F:\Vishal\Login\Login\obj\Debug\res\menu\menu.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\header.xml
+F:\Vishal\Login\Login\obj\Debug\res\drawable\home.png
+F:\Vishal\Login\Login\obj\Debug\res\drawable\icon1.png
+F:\Vishal\Login\Login\obj\Debug\res\menu\top_menu.xml
+F:\Vishal\Login\Login\obj\Debug\res\drawable\add.png
+F:\Vishal\Login\Login\obj\Debug\res\layout\tool_bar.xml
+F:\Vishal\Login\Login\obj\Debug\res\drawable\icon.jpg
+F:\Vishal\Login\Login\obj\Debug\res\drawable\logout.png
+F:\Vishal\Login\Login\obj\Debug\res\drawable\my_progress_background.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\empsidestickyheader.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\footer.xml
+F:\Vishal\Login\Login\obj\Debug\res\drawable\custom_seekbar_progress.xml
+F:\Vishal\Login\Login\obj\Debug\R.cs.flag
+F:\Vishal\Login\Login\obj\Debug\uploadflags.txt
+F:\Vishal\Login\Login\obj\Debug\res\layout\row.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\tablayout3.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\tablayout4.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\roundprocess.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\roundheader.xml
+F:\Vishal\Login\Login\obj\Debug\res\drawable\ic_action_new.png
+F:\Vishal\Login\Login\obj\Debug\res\layout\roundreviewablelist.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\roundrevieweelist.xml
+F:\Vishal\Login\Login\obj\Debug\res\layout\revieweedata.xml
+F:\Vishal\Login\Login\obj\Debug\res\drawable\profile.png
+F:\Vishal\Login\Login\obj\Debug\res\layout\customdialog.xml
+F:\Vishal\Login\Login\obj\Debug\2Review.csprojResolveAssemblyReference.cache
+F:\Vishal\Login\Login\bin\Debug\Login.dll.mdb
+F:\Vishal\Login\Login\obj\Debug\android\assets\Login.dll.mdb
+F:\Vishal\Login\Login\bin\Debug\Login.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\System.pdb
+obj\Debug\linksrc\Login.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

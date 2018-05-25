@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:app="http://schemas.android.com/apk/res-auto"
+   android:layout_width="match_parent"
+   android:layout_height="210dp"
+   android:background="#7F8C8D"
+   android:padding="16dp"
+   android:orientation="vertical"
+   android:gravity="center">
+  <ImageView
+    android:layout_width="wrap_content"
+   android:layout_height="wrap_content"
+    android:layout_marginTop="30dp"
+    android:src="@drawable/addemployee">
+
+  </ImageView>
+  <TextView
+    android:textColor="#ffffff"
+    android:gravity="center"
+     android:text="Harshal Gohil"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:id="@+id/header_UserName"
+     android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+</LinearLayout>

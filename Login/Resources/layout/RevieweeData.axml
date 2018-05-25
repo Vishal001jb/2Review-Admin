@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/Card_Click1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="100dp"
+    android:layout_margin="6dp"
+    app:cardCornerRadius="14dp"
+    app:cardElevation="10dp"
+    app:contentPaddingLeft="3dp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="48"
+            android:paddingBottom="7dp"
+            android:paddingTop="7dp">
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:paddingBottom="5dp"
+                android:scaleType="fitStart"
+                android:src="@drawable/profile"
+                android:layout_weight="3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="employee1"
+                android:id="@+id/txtname"
+                android:layout_weight="3"
+                android:textSize="15sp" />
+            <TextView
+                android:textSize="15sp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtdesig"
+                android:layout_weight="20" />
+            <TextView
+                android:textSize="15sp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txttotal"
+                android:layout_weight="10" />
+            <TextView
+                android:textSize="15sp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtpending"
+                android:layout_weight="10" />
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>
